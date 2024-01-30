@@ -6,3 +6,8 @@ yes this is true
     roses are red, violets are blue
     27 is next
      this is true
+
+3rd poem:
+    the world is blue,
+    the world is green,
+    the world is everything in between
