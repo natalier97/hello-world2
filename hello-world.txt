@@ -1,3 +1,7 @@
 hello world, this is my new file
 
 it's not brand new anymore
+
+>>the world is blue
+>> the world is green
+>>insert 3rd poem here:
